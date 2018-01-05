@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExampleAdapter</string>
+    <string-array name="Colors">
+        <item>red</item>
+        <item>yellow</item>
+        <item>blue</item>
+        <item>black</item>
+        <item>gray</item>
+
+    </string-array>
+
+</resources>
